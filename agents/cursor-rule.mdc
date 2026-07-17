@@ -1,0 +1,7 @@
+# LLM-Alpha Generator Agent Rule
+
+- Read `SKILL.md` before using this skill.
+- Prefer `scripts/generate.py` as the main entrypoint.
+- Run `python scripts/test.py` before claiming the skill is ready.
+- Use the current tool model unless the single `config.llm` entry supplies a complete external configuration.
+- Treat every LLM failure as fatal; do not downgrade or publish partial output.

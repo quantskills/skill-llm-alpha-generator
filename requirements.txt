@@ -1,0 +1,12 @@
+# LLM-Alpha 因子挖掘运行依赖
+# Optional market-data adapter; credentials must be supplied by the user at runtime.
+# Mandatory external LLM adapter; no credentials are stored in this package.
+
+numpy
+pandas
+scipy
+gplearn
+deap
+sympy
+panda_data
+anthropic

@@ -1,0 +1,6 @@
+skill: llm-alpha-generator
+entry: SKILL.md
+language: zh-CN
+notes:
+  - Follow the mandatory LLM alpha-generation workflow.
+  - Keep factors, scores, explanations, and iteration traces auditable.
