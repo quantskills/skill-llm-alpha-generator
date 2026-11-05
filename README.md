@@ -127,3 +127,6 @@ The workflow uses the current tool-host LLM by default, or one complete external
 - `scripts/`: deterministic factor mining implementation and tests
 
 Run the test suite with `python scripts/test.py`.
+
+
+Pandadata 兼容维护：[abgyjaguo](https://github.com/abgyjaguo)，保留原项目作者署名。

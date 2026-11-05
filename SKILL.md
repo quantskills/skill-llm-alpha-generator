@@ -222,3 +222,7 @@ python scripts/generate.py --synthetic          # 合成数据离线验收
 - [references/llm_policy.md](references/llm_policy.md) — LLM 调用边界八条硬约束
 - [references/fitness_guide.md](references/fitness_guide.md) — 适应度与 AlphaEval 五维设计
 - [references/output_contract.md](references/output_contract.md) — run() 返回结构 + factor JSON schema
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
