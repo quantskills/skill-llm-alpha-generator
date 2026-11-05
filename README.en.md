@@ -5,3 +5,6 @@ Formulaic alpha-factor mining for stocks and futures. The current tool-host LLM 
 All LLM stages are mandatory: candidate generation, dimension inference, AlphaEval logic scoring, and economic explanation. Failures are fatal and no report is published.
 
 See `SKILL.md` for the workflow and `python scripts/test.py` for validation.
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.

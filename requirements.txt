@@ -8,5 +8,5 @@ scipy
 gplearn
 deap
 sympy
-panda_data
+panda_data==1.0.6
 anthropic
